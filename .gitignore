@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+data_copy.json
+*.ipynb
+test_python.py
 # C extensions
 *.so
 

@@ -1,0 +1,11 @@
+{
+    "info_it": {
+        "user": "",
+        "pass": ""
+    },
+    "telegram": {
+        "token": "",
+        "chat_fp": 0,
+        "chat_kf": 0
+    }
+}
